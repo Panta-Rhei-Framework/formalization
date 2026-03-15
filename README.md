@@ -1,2 +1,1 @@
-# formalization
-Official public formalization surface for the Panta Rhei framework.
+# Panta Rhei Formalization\n\nOfficial public formalization surface. Release-facing formalization content belongs here; active collaborative development belongs in taulib.\n
